@@ -339,7 +339,7 @@
               <MiscControls></MiscControls>
               <Define>USE_STDPERIPH_DRIVER</Define>
               <Undefine></Undefine>
-              <IncludePath>.\Start;.\Library;.\User;.\System;.\Hardware;.\Hardware\Encoder;.\Hardware\MPU6050;.\Hardware\MPU6050\eMPL;.\Hardware\Control</IncludePath>
+              <IncludePath>.\Start;.\Library;.\User;.\System;.\Hardware;.\Hardware\Encoder;.\Hardware\MPU6050;.\Hardware\MPU6050\eMPL;.\Hardware\Control;.\Hardware\My_DMA</IncludePath>
             </VariousControls>
           </Cads>
           <Aads>
@@ -817,6 +817,11 @@
               <FileName>control.c</FileName>
               <FileType>1</FileType>
               <FilePath>.\Hardware\Control\control.c</FilePath>
+            </File>
+            <File>
+              <FileName>MyDMA.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\Hardware\My_DMA\MyDMA.c</FilePath>
             </File>
           </Files>
         </Group>

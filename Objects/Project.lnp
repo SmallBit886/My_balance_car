@@ -45,6 +45,7 @@
 ".\objects\inv_mpu.o"
 ".\objects\inv_mpu_dmp_motion_driver.o"
 ".\objects\control.o"
+".\objects\mydma.o"
 ".\objects\main.o"
 ".\objects\stm32f10x_it.o"
 --strict --scatter ".\Objects\Project.sct"
