@@ -1565,7 +1565,7 @@ I (.\Library\stm32f10x_usart.h)(0x4D783BB4)
 I (.\Library\stm32f10x_wwdg.h)(0x4D783BB4)
 I (.\Library\misc.h)(0x4D783BB4)
 I (.\System\Delay.h)(0x6130920E)
-F (.\Hardware\MPU6050_soft\MPU6050_Soft.c)(0x654B0D1E)(--c99 -c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections -I .\Start -I .\Library -I .\User -I .\System -I .\Hardware -I .\Hardware\Encoder -I .\Hardware\MPU6050 -I .\Hardware\MPU6050\eMPL -I .\Hardware\Control -I .\Hardware\My_DMA -I .\Hardware\MPU6050_soft -I .\Hardware\My_IIC-ID:\KEIL5\keil5.1\Keil\STM32F1xx_DFP\2.2.0\Device\Include-D__UVISION_VERSION="536" -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER-o .\objects\mpu6050_soft.o --omf_browse .\objects\mpu6050_soft.crf --depend .\objects\mpu6050_soft.d)
+F (.\Hardware\MPU6050_soft\MPU6050_Soft.c)(0x654B6799)(--c99 -c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections -I .\Start -I .\Library -I .\User -I .\System -I .\Hardware -I .\Hardware\Encoder -I .\Hardware\MPU6050 -I .\Hardware\MPU6050\eMPL -I .\Hardware\Control -I .\Hardware\My_DMA -I .\Hardware\MPU6050_soft -I .\Hardware\My_IIC-ID:\KEIL5\keil5.1\Keil\STM32F1xx_DFP\2.2.0\Device\Include-D__UVISION_VERSION="536" -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER-o .\objects\mpu6050_soft.o --omf_browse .\objects\mpu6050_soft.crf --depend .\objects\mpu6050_soft.d)
 I (.\Start\stm32f10x.h)(0x4D783CB4)
 I (.\Start\core_cm3.h)(0x4D523B58)
 I (D:\KEIL5\keil5.1\ARM\ARMCC\include\stdint.h)(0x6025237E)
